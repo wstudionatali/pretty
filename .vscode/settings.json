@@ -1,0 +1,6 @@
+    {
+        "phpsab.docker.dockerEnabled": true,
+        "phpsab.docker.dockerContainer": "myapp-composer",
+        "phpsab.docker.dockerWorkspaceRoot": "/var/www/html/web/app/themes/pretty",
+        "php.validate.executablePath": "/usr/local/bin/php",
+    }
